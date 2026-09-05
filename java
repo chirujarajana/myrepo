@@ -7,6 +7,7 @@ public class Main {
         int b = 20;
         int sum = a + b;
         x+y=z;
+        10+20=30;
 
         System.out.println("Sum: " + sum);
     }
